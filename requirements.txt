@@ -1,0 +1,9 @@
+Flask
+turtle
+dash
+dash-bootstrap-components
+pandas
+plotly-express
+numpy
+Werkzeug
+torch
